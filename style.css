@@ -90,6 +90,11 @@ header li a:hover {
   text-align: center;
   padding: 20px 0 20px 0;
 }
+
+.services {
+  background-color: #7BC58C;
+}
+
 .servicez {
   height: 400px;
   width: 300px;
