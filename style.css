@@ -108,3 +108,15 @@ header li a:hover {
   gap: 50px;
   justify-content: center;
 }
+h3 {
+  color: white;
+  font-size: 2rem;
+  text-align: center;
+  padding-top: 10px;
+}
+
+.servicez p {
+  color: white;
+  max-width: 260px;
+  padding: 10px 20px;
+}
