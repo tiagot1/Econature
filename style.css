@@ -125,3 +125,88 @@ h3 {
   max-width: 260px;
   padding: 10px 20px;
 }
+.contact {
+  background-color: #9AD391;
+  height: 900px;
+}
+
+main {
+  background-color: #7BC58C;
+  margin: 0 auto;
+  display: flex;
+  height: 720px;
+  color: white;
+}
+
+.infor {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  gap: 50px;
+  padding-top: 60px;
+}
+
+.info {
+  font-size: 2rem;
+}
+
+label {
+  font-size: 1.3rem;
+}
+
+input {
+  height: 25px;
+  width: 300px;
+  padding-top: 5px;
+  border-radius: 5px;
+}
+
+input:hover {
+  box-shadow: 1px 1px #2C5B41;
+  transition: 0.4s;
+}
+
+.contato-flex p,
+.endereco p.desc {
+  padding: 20px 0;
+}
+
+.contato-flex a {
+  display: inline-block;
+  border: 1px solid #2C5B41;
+  padding: 10px 20px;
+  margin-top: 20px;
+  border-radius: 5px;
+}
+
+.contato-flex a:hover {
+  background-color: #089044;
+  transition: 1s;
+}
+
+h5 {
+  color: #2C5B41;
+  font-size: 1.5rem;
+  padding-top: 5px;
+}
+
+.inf,
+.email {
+  font-size: 1.3rem;
+}
+
+.email {
+  padding-bottom: 80px;
+}
+
+footer {
+  display: flex;
+  height: 60px;
+  background-color: #089044;
+  font-size: 1.2rem;
+  align-items: center;
+}
+
+.flex-footer {
+  margin: 0 auto;
+}
